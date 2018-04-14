@@ -1,0 +1,15 @@
+{
+  "strict":true,
+  "bitwise":true,
+  "esversion":6,
+  "eqeqeq": true,
+  "indent": true,
+  "latedef": "nofunc",
+  "newcap": true,
+  "undef": true,
+  "debug": false,
+  "curly": true,
+  "devel": false,
+  "unused":true
+
+}
