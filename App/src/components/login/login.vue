@@ -2,7 +2,7 @@
   <div class="login_container" >
     <div class="main">
       <div class="login_img">
-        <img src="../images/login_logo.png" alt="Alternate Text" />
+        <img src="../images/timeline_edit.png" alt="Alternate Text" />
         <div>桃 李 天 下</div>
       </div>
       <div class="logindiv">
